@@ -3,12 +3,6 @@
   "version": "7.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
-  },
-  "keywords": [],
-  "author": "T.F.A#7524",
   "license": "ISC",
   "dependencies": {
     "aqify.js": "^1.8.0",
